@@ -1,2 +1,3 @@
 # Hacktoberfest2020
-This is how to write hello world in c# add "hello world" in other languages too.
+In this you have to write the code of hello world in diferent languages.
+Thankyou !!!
